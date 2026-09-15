@@ -1,0 +1,8 @@
+{
+  "name": "Remix Plataforma de Capacitacion SIMA y PAEP",
+  "description": "Plataforma de inducción y capacitación en seguridad industrial y medio ambiente para personal de SOBOCE S.A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
